@@ -91,6 +91,9 @@ This is a guide to setup "Iterm" on OSX with oh-my-zsh.
         # for changes to reflect
         source ~/.zshrc
         ```
+        
+        Here is a collection of other many plugin you can install based on your use case: https://github.com/unixorn/awesome-zsh-plugins#plugins
+        
 
 5. Install fonts for iterm2
 
